@@ -33,7 +33,7 @@ Fitness Monitor is an Android application that users can use to track their dail
 # Screenshots
 
 <p float="left">
-  <img src="Screens/1.jpg" width="30%" />
-  <img src="Screens/2.jpg" width="30%" /> 
-  <img src="Screens/3.jpg" width="30%" />
+  <img src="Screens/1.png" width="30%" />
+  <img src="Screens/2.png" width="30%" /> 
+  <img src="Screens/3.png" width="30%" />
 </p>
