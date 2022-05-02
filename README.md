@@ -1,6 +1,6 @@
-# FitnesssMonitor
+# Fitness Monitor
 
-Fitness Monitor is an Android application that users can use to track their daily activities like walking, jogging, sitting, standing, walking upstairs and walking downstairs. The application uses a Convolutional Neural Network (CNN) to predict user activity automatically and stores the information in a database stored on the phone. The users can then choose to visualize the statistics.
+We have developed an Android application that users can use to track their daily activities like walking, jogging, sitting, standing, walking upstairs and walking downstairs. The application uses a Convolutional Neural Network (CNN) to predict user activity automatically and stores the information in a local SQL database stored on the device. The users can then choose to visualize the statistics.
 
 # Java File Structure
 
@@ -37,3 +37,7 @@ Fitness Monitor is an Android application that users can use to track their dail
   <img src="Screens/2.png" width="30%" /> 
   <img src="Screens/3.png" width="30%" />
 </p>
+
+# **APK**
+
+The apk can be found in Output->apk-debug.apk
