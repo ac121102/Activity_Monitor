@@ -1,4 +1,8 @@
-# Fitness Monitor
+# (Made by: Arvind B19CSE016 Ashwathi B19CSE017)
+
+. . . .
+
+## Instructor: Dr. Suchetana Chakraborty (Assistant Professor, Department of Computer Science & Engineering @ Indian Institute of Technology, Jodhpur)
 
 We have developed an Android application that users can use to track their daily activities like walking, jogging, sitting, standing, walking upstairs and walking downstairs. The application uses a Convolutional Neural Network (CNN) to predict user activity automatically and stores the information in a local SQL database stored on the device. The users can then choose to visualize the statistics.
 
